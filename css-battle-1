@@ -1,11 +1,18 @@
 <style>
   
 *{
-  /*background: linear-gradient(
-    red 90px, blue 100px
-    
-  );*/
-  
+  background: linear-gradient(
+    #F7BED9 90px,
+    #EC007B 90px, 
+    #EC007B 140px, 
+    #F7BED9 140px,
+    #F7BED9 160px, 
+    #EC007B 160px,
+    #EC007B 210px, 
+    #F7BED9 210px
+  );
+  //margin: 0;
+ 
   color:#EC007B;
   border: 50px solid;
   border-width:0 50 50;
