@@ -1,0 +1,12 @@
+*{
+margin:-150 200 25 100;
+background:#33499F
+}
+&{
+margin:125 0;
+border:25px solid#DE3832;
+box-shadow:0 0 0 15px#fff;
+*{
+background:#DE3832;
+color:fff;
+box-shadow:0-15px 0 15px,0 175px#DE3832,0 190px 0 15px
