@@ -1,7 +1,8 @@
 <style>
-&{
+&{*{
+margin:0;
 translate:-275px -175px;
 color:33499F;
-box-shadow:-15px -15px inset#fff,-0px -130px inset,465px -15px,450px 0#fff,
--15px 365px,0 350px#fff, 465px 365px,450px 350px#fff;
-background:#DE3832
+box-shadow:-15px -15px inset#fff,-0px -130px inset,465px -15px,450px 0#fff;
+-webkit-box-reflect:below 50px;
+&{background:#DE3832
