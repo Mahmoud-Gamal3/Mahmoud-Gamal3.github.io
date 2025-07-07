@@ -12,3 +12,7 @@ box-shadow:0 0 0 2in#32295A;
 box-shadow:-30px -30px inset#32295A;
 margin:0 100 200 0;
 background:#48BF7D
+// shorter solution
+<style>
+&{border-radius:50%;margin:0-25%-50%0;box-shadow:0 0 0 2in#32295A,inset 0 9in#48BF7D;
+*{box-shadow:-30px -30px inset#32295A;margin:0 20%40%0
