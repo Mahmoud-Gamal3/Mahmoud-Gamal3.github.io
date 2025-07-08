@@ -1,0 +1,30 @@
+<style>
+*{
+margin:29 59;
+//border:5px solid;
+background:#085328
+}
+&{
+border:solid#8CB457;
+box-shadow:
+0 0 0 2in inset #8CB457,
+0 0 0 2in #085328;
+margin:30 50;
+*{
+color:#085328;
+box-shadow:210px 0,-210px 0;
+
+
+
+<style>
+*{
+margin:0 30;
+background:#085328
+}
+&{
+border:solid#8CB457;
+border-width:30 60;
+margin:30 50;
+*{
+color:#085328;
+box-shadow:180px 0,-180px 0
