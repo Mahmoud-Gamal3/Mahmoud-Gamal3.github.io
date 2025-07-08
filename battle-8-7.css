@@ -29,3 +29,13 @@ margin:30 50;
 *{
 color:#085328;
 box-shadow:210px 0,-210px 0;
+
+
+<style>
+*{*{
+margin:60 110;
+color:#085328;
+box-shadow:
+210px 0,-210px 0,
+0 0 0 2in inset,
+30px 0 0 30px#8CB457,-30px 0 0 30px#8CB457,0 0 0 2in
