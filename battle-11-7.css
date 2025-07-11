@@ -1,13 +1,11 @@
-// 190 unsorted solution 
+// 185 unsorted solution 
 <style>
-*{
-color:#EC0076;
-margin:-80 20 60;
-}
 &{
 background:#F7BED9;
 border:40px dotted #F069AB;
 margin:100 150 100 30;
 *{
+color:#EC0076;
+margin:-80 20 60;
 border-radius:1in;
 box-shadow:0 40px,0 100px,180px 40px,180px 100px
